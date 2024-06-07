@@ -1,1 +1,4 @@
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/_9elR7c0)
+
+
+The purpose of the lab was to be introduced and practice using ProteinMPNN (structure to sequence), AlphaFold2 (sequence to structure), and RFdiffusion (structure-based protein design). I learned what ML models are used in protein design, how they work and improvements that have been made overtime. AlphaFold which is one that I should be using somewhat frequently this summer, its cool to see how accurate it is when just given the sequence of the protein. One question I still have is what kind of structural information is needed as input for RFdiffusion to generate accurate protein designs and where in the colab would it be if there is a spot for it?
